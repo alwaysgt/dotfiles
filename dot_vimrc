@@ -6,6 +6,7 @@ set background=dark
 :imap <c-s> <Esc>:w<CR>a
 
 set number
+set relativenumber
 set nocompatible
 syntax on
 filetype plugin indent on
